@@ -261,10 +261,14 @@
   <div class="star" style="top: 38%; left: 8%;">🌟</div>
 
   <main class="container">
+  <img src="Nyan.gif" alt="GIF Shiroko" width="100" height="100">
+
+
     <div class="card">
       <h2>✨ Tentang 🍀</h2>
       <p>Website ini dibuat Khusus untuk menunjukkan berbagai Karya yg dibuat oleh Danang.... 😙</p>
     </div>
+    <img src="Lucu.gif" alt="GIF Shiroko" width="100" height="100">
     <div class="card">
       <h2>📸 Galeri SpesialZzZz Karya Danang....🥳🎉</h2>
       <p>Dari:(@Danang_Argus_Prime🗿)</p>
