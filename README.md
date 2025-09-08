@@ -1,4 +1,3 @@
-
 # Web-Khusus-Danang(By LeafZuya)  
 <html lang="id">  
 <head>  
@@ -205,7 +204,44 @@
     <div class="card">  
       <h2>✨ Tentang 🍀</h2>  
       <p>Website ini dibuat Khusus untuk menunjukkan berbagai Karya yg dibuat oleh Danang.... 😙</p>  
-    </div>  
+    </div>
+    <div class="card">
+      <h2>📸 Galeri SpesialZzZz Karya Danang....🥳🎉</h2>
+      <p>Dari:(@Danang_Argus_Prime🗿)</p>
+<video width="220" height="220" controls>
+  <source src="Danang.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="220" height="220" controls>
+  <source src="Shiroko.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="220" height="220" controls>
+  <source src="Kuroko.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+    </div>
+
+ <div class="card">
+ <video width="220" height="220" controls>
+  <source src="Hoshino.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="220" height="220" controls>
+  <source src="Furina.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="220" height="220" controls>
+  <source src="Chibi.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+   </div>
+     
+
   </main>  
   
   <footer>  
