@@ -241,26 +241,26 @@
   </header>
 
   <!-- 10 pasang bintang melayang -->
-  <div class="star" style="top: 10%; left: 15%;">✨</div>
-  <div class="star" style="top: 12%; left: 18%;">🌟</div>
-  <div class="star" style="top: 25%; left: 40%;">✨</div>
-  <div class="star" style="top: 28%; left: 43%;">🌟</div>
-  <div class="star" style="top: 40%; left: 70%;">✨</div>
-  <div class="star" style="top: 42%; left: 73%;">🌟</div>
-  <div class="star" style="top: 55%; left: 25%;">✨</div>
-  <div class="star" style="top: 58%; left: 28%;">🌟</div>
-  <div class="star" style="top: 70%; left: 60%;">✨</div>
-  <div class="star" style="top: 72%; left: 63%;">🌟</div>
-  <div class="star" style="top: 80%; left: 10%;">✨</div>
-  <div class="star" style="top: 83%; left: 13%;">🌟</div>
-  <div class="star" style="top: 85%; left: 80%;">✨</div>
-  <div class="star" style="top: 88%; left: 83%;">🌟</div>
-  <div class="star" style="top: 20%; left: 85%;">✨</div>
-  <div class="star" style="top: 23%; left: 88%;">🌟</div>
-  <div class="star" style="top: 65%; left: 45%;">✨</div>
-  <div class="star" style="top: 68%; left: 48%;">🌟</div>
-  <div class="star" style="top: 35%; left: 5%;">✨</div>
-  <div class="star" style="top: 38%; left: 8%;">🌟</div>
+  <div class="star" style="top: 10%; left: 15%;">❄️</div>
+  <div class="star" style="top: 12%; left: 18%;">🌿</div>
+  <div class="star" style="top: 25%; left: 40%;">❄️</div>
+  <div class="star" style="top: 28%; left: 43%;">🌿</div>
+  <div class="star" style="top: 40%; left: 70%;">❄️</div>
+  <div class="star" style="top: 42%; left: 73%;">🌿</div>
+  <div class="star" style="top: 55%; left: 25%;">❄️</div>
+  <div class="star" style="top: 58%; left: 28%;">🌿</div>
+  <div class="star" style="top: 70%; left: 60%;">❄️</div>
+  <div class="star" style="top: 72%; left: 63%;">🌿</div>
+  <div class="star" style="top: 80%; left: 10%;">❄️</div>
+  <div class="star" style="top: 83%; left: 13%;">🌿</div>
+  <div class="star" style="top: 85%; left: 80%;">❄️</div>
+  <div class="star" style="top: 88%; left: 83%;">🌿</div>
+  <div class="star" style="top: 20%; left: 85%;">❄️</div>
+  <div class="star" style="top: 23%; left: 88%;">🌿</div>
+  <div class="star" style="top: 65%; left: 45%;">❄️</div>
+  <div class="star" style="top: 68%; left: 48%;">🌿</div>
+  <div class="star" style="top: 35%; left: 5%;">❄️</div>
+  <div class="star" style="top: 38%; left: 8%;">🌿</div>
   
     <div class="card">
       <h2>✨ Tentang 🍀</h2>
