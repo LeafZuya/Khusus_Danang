@@ -301,6 +301,11 @@
   <source src="Chibi.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<video width="220" height="220" controls>
+  <source src="Istri.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
    </div>
      
  <main class="container">
